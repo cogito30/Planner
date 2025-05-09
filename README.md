@@ -24,9 +24,7 @@
 ### 2026 Object
 - [ ] 정보보안기사(필기)
 - [ ] 정보보안기사(실기)
-- [ ] solved.ac(Class1-Class4) with C++
-- [ ] Programmers(Lv0-Lv2) with C++
-- [ ] FrontEnd(TailwindCSS, React, NextJS) with JavaScript
+- [ ] solved.ac(Class1-Class5) with C++
 - [ ] BackEnd(NodeJS, Express, NestJs) with JavaScript
 
 ## 2026 Month
@@ -47,10 +45,8 @@
 ## 2027
 ### 2027 Object
 - [ ] TOEIC(800+)
-- [ ] solved.ac(Class5-Class6) with C++
-- [ ] Programmers(Lv3-Lv4) with C++
+- [ ] Programmers(Lv0-Lv3) with C++
 - [ ] FrontEnd(TailwindCSS, React, NextJS) with JavaScript
-- [ ] BackEnd(NodeJS, Express, NestJs) with JavaScript
 
 ## 2027 Month
 - [ ] 2027.01: 
@@ -68,4 +64,5 @@
 
 ## 2028-: (주말 취미)
 - 정보통신기사/Embedded -> 실생활 필요 장비 제작
-- 웹개발/정보보안/데이터분석 -> 데이터분석으로 실용성 파악
+- 정보보안/데이터분석 -> 데이터분석으로 실용성 파악
+- JLPT - > 여행 준비
