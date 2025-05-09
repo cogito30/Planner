@@ -24,8 +24,8 @@
 ### 2026 Object
 - [ ] 정보보안기사(필기)
 - [ ] 정보보안기사(실기)
-- [ ] solved.ac(Class1-Class5) with C++
-- [ ] Programmers(Lv0-Lv3) with C++
+- [ ] solved.ac(Class1-Class4) with C++
+- [ ] Programmers(Lv0-Lv2) with C++
 - [ ] FrontEnd(TailwindCSS, React, NextJS) with JavaScript
 - [ ] BackEnd(NodeJS, Express, NestJs) with JavaScript
 
@@ -42,3 +42,28 @@
 - [ ] 2026.10: 
 - [ ] 2026.11: 
 - [ ] 2026.12: 
+
+
+## 2027
+### 2027 Object
+- [ ] TOEIC(800+)
+- [ ] solved.ac(Class5-Class6) with C++
+- [ ] Programmers(Lv3-Lv4) with C++
+- [ ] FrontEnd(TailwindCSS, React, NextJS) with JavaScript
+- [ ] BackEnd(NodeJS, Express, NestJs) with JavaScript
+
+## 2027 Month
+- [ ] 2027.01: 
+- [ ] 2027.02: 
+- [ ] 2027.03: 
+- [ ] 2027.04: 
+- [ ] 2027.05: 
+- [ ] 2027.06: 
+- [ ] 2027.07: 
+- [ ] 2027.08: 
+- [ ] 2027.09: 
+- [ ] 2027.10: 
+- [ ] 2027.11: 
+- [ ] 2027.12: 
+
+## 2028-: (주말) 정보통신기사/Embedded/ReverseEngineering
