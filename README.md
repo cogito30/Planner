@@ -2,12 +2,12 @@
 
 ## 2025
 ### 2025 Object
-- [] 정보보안기사(필기)
-- [] 정보보안기사(실기)
-- [] solved.ac(Class1-Class5) with Python
-- [] Programmers(Lv0-Lv3) with Python
-- [] Backend(Django, DRF, FastAPI) with Python
-- [] AI(PyTorch) with Python
+- [ ] 정보보안기사(필기)
+- [ ] 정보보안기사(실기)
+- [ ] solved.ac(Class1-Class5) with Python
+- [ ] Programmers(Lv0-Lv3) with Python
+- [ ] Backend(Django, DRF, FastAPI) with Python
+- [ ] AI(PyTorch) with Python
 
 ### 2025 Month
 - [] 2025.05: 정보보안기사(필기) / solved.ac(class3)
