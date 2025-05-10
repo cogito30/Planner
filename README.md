@@ -36,29 +36,29 @@
 - [ ] 2026.12: TOEIC Speaking / solved.ac(Class6)
 
 
-## 2027: Embedded
+## 2027: Web
 ### 2027 Object
-- [ ] 정보통신기사 || TOEIC(800+)
-- [ ] solved.ac(Class1-Class5) with C++
+- [ ] DreamHack(WebHack) || TOEIC(800+)
+- [ ] Programmers(Lv0-Lv3) with JavaScript
 
 ## 2027 Month
-- [ ] 2027.01: 정보통신기사 / solved.ac(Class1)
-- [ ] 2027.02: 정보통신기사 / solved.ac(Class2)
-- [ ] 2027.03: 정보통신기사 / solved.ac(Class3)
-- [ ] 2027.04: 정보통신기사 / solved.ac(Class4)
-- [ ] 2027.05: TOEIC(800+) / solved.ac(Class4)
-- [ ] 2027.06: TOEIC(800+) / solved.ac(Class4)
-- [ ] 2027.07: TOEIC(800+) / solved.ac(Class5)
-- [ ] 2027.08: TOEIC(800+) / solved.ac(Class5)
-- [ ] 2027.09: TOEIC(800+) / solved.ac(Class5)
-- [ ] 2027.10: TOEIC(800+) / solved.ac(Class5)
-- [ ] 2027.11: TOEIC(800+) / solved.ac(Class5)
-- [ ] 2027.12: TOEIC(800+) / solved.ac(Class5)
+- [ ] 2027.01: DreamHack(WebHack) / Programmers(Lv0)
+- [ ] 2027.02: DreamHack(WebHack) / Programmers(Lv0)
+- [ ] 2027.03: DreamHack(WebHack) / Programmers(Lv1)
+- [ ] 2027.04: DreamHack(WebHack) / Programmers(Lv1)
+- [ ] 2027.05: TOEIC(800+) / Programmers(Lv2)
+- [ ] 2027.06: TOEIC(800+) / Programmers(Lv2)
+- [ ] 2027.07: TOEIC(800+) / Programmers(Lv2)
+- [ ] 2027.08: TOEIC(800+) / Programmers(Lv2)
+- [ ] 2027.09: TOEIC(800+) / Programmers(Lv3)
+- [ ] 2027.10: TOEIC(800+) / Programmers(Lv3)
+- [ ] 2027.11: TOEIC(800+) / Programmers(Lv3)
+- [ ] 2027.12: TOEIC(800+) / Programmers(Lv3)
 
 ## 2028: Embedded
 ### 2028 Object
 - [ ] 정보통신기사 || TOEIC(800+)
-- [ ] Programmers(Lv0-Lv3) with C++
+- [ ] solved.ac(Class1-Class5)/Programmers(Lv0-Lv3) with C++
 
 ## 2028 Month
 - [ ] 2028.01: 정보통신기사 / Programmers(Lv0)
@@ -76,5 +76,6 @@
 
 ## 2029-: (주말 취미)
 - 정보통신기사/Embedded -> 실생활 필요 장비 제작
-- 데이터분석 -> 데이터분석으로 실용성 파악
+- 데이터분석 -> 데이터분석으로 실용성 분석
 - JLPT - > 일본 여행 준비
+- IELTS -> 아카데믹 어학 연습
