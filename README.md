@@ -1,8 +1,8 @@
 # Planner
-(System Architecture)
-- Web Developer
-- AI Developer
-- Embedded Communication
+- algorithm with C++
+- TOEIC
+- web develope(frontend/backend)
+- 정보보안기사
 
 ## 2025: Web && AI
 ### 2025 Object
@@ -62,26 +62,9 @@
 - [ ] 2027.11: DreamHack(WebHack) / solved.ac(Class7)
 - [ ] 2027.12: DreamHack(WebHack) / solved.ac(Class7)
 
-## 2028: Embedded
-### 2028 Object
-- [ ] Embedded(RaspberryPi/ARM)
 
-## 2028 Month
-- [ ] 2028.01: Embedded(RaspberryPi)
-- [ ] 2028.02: Embedded(RaspberryPi)
-- [ ] 2028.03: Embedded(RaspberryPi)
-- [ ] 2028.04: Embedded(RaspberryPi)
-- [ ] 2028.05: Embedded(RaspberryPi)
-- [ ] 2028.06: Embedded(ARM)
-- [ ] 2028.07: Embedded(ARM)
-- [ ] 2028.08: Embedded(ARM)
-- [ ] 2028.09: Embedded(ARM)
-- [ ] 2028.10: Embedded(ARM)
-- [ ] 2028.11: Embedded(ARM)
-- [ ] 2028.12: Embedded(ARM)
-
-## 2029-: (주말 취미)
-- 정보통신기사/Embedded -> 실생활 필요 장비 제작
+## 2028-: (주말 취미)
+- 정보통신기사/Embedded(RaspberryPi/ARM) -> 실생활 필요 장비 제작
 - 데이터분석 -> 데이터분석으로 실용성 분석
 - JLPT - > 일본 여행 준비
 - IELTS -> 아카데믹 어학 연습

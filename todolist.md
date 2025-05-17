@@ -1,5 +1,8 @@
 # Life Planner
-- 웹 개발 / 임베디드(통신) / 인공지능
+(System Architecture)
+- Web Developer
+- AI Developer
+- Embedded Communication
 
 ## To Do List(자격증)
 - [X] 리눅스마스터 2급
