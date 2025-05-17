@@ -4,6 +4,12 @@
 - AI Developer
 - Embedded Communication
 
+## Rule
+- Text Frist
+- Read && Write(Typing)
+- No Video(TV, Drama, Youtube) && No Audio(Music)
+- Use Internet for Search Document
+
 ## To Do List(자격증)
 - [X] 리눅스마스터 2급
 - [X] 네트워크관리사 2급
