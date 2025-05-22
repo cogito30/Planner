@@ -10,10 +10,10 @@
 - [ ] solved.ac(Class1-Class5) with C++
 
 ### 2025 Month
-- [ ] 2025.05: 코딩테스트 / solved.ac(class0-class2)
-- [ ] 2025.06: 코딩테스트 / solved.ac(class3)
-- [ ] 2025.07: 코딩테스트 / solved.ac(Class4)
-- [ ] 2025.08: 코딩테스트 / solved.ac(Class4)
+- [ ] 2025.05: TOEIC / solved.ac(class0-class2)
+- [ ] 2025.06: TOEIC / solved.ac(class3)
+- [ ] 2025.07: TOEIC / solved.ac(Class4)
+- [ ] 2025.08: TOEIC / solved.ac(Class4)
 - [ ] 2025.09: 정보보안기사 / solved.ac(Class4)
 - [ ] 2025.10: 정보보안기사 / solved.ac(Class5)
 - [ ] 2025.11: 정보보안기사 / solved.ac(Class5)
