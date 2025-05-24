@@ -4,7 +4,7 @@
 
 
 ## Side Project
-1) 코딩테스트 난이도별 문제풀이 정리 및 해설(C++/Python/Java/JavaScript)
+1) 코딩테스트 난이도별 문제풀이 정리 및 해설(C++/Python/Java/JavaScript) + Programmers(Lv00-Lv03) + Solved.ac(class00-class05)
 2) CS 기본 개념 정리(Algorithm && Coding Test/Network && Protocol/OS && Linux/DataBase && SQL/Security)
 3) 로또 번호 분석기(랜덤 번호/통계 기반 번호)
 4) To Do List

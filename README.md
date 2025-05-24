@@ -1,8 +1,4 @@
 # Planner
-- algorithm with C++
-- TOEIC
-- web develope(frontend/backend)
-- 정보보안기사
 
 ## 2025: Web && AI
 ### 2025 Object
@@ -25,18 +21,18 @@
 - [ ] 정보보안기사
 - [ ] TOEIC Speaking(160+)
 - [ ] TOEIC(800+)
-- [ ] Programmers(Lv0-Lv3) with C++
+- [ ] Programmers(Lv1-Lv3) with C++
 
 ## 2026 Month
-- [ ] 2026.01: 정보보안기사 / Programmers(Lv0)
-- [ ] 2026.02: 정보보안기사 / Programmers(Lv0)
-- [ ] 2026.03: 정보보안기사 / Programmers(Lv1)
-- [ ] 2026.04: TOEIC Speaking(160+) / Programmers(Lv1)
+- [ ] 2026.01: 정보보안기사 / Programmers(Lv1)
+- [ ] 2026.02: 정보보안기사 / Programmers(Lv1)
+- [ ] 2026.03: 정보보안기사 / Programmers(Lv2)
+- [ ] 2026.04: TOEIC Speaking(160+) / Programmers(Lv2)
 - [ ] 2026.05: TOEIC Speaking(160+) / Programmers(Lv2)
 - [ ] 2026.06: TOEIC Speaking(160+) / Programmers(Lv2)
 - [ ] 2026.07: TOEIC(800+) / Programmers(Lv2)
-- [ ] 2026.08: TOEIC(800+) / Programmers(Lv2)
-- [ ] 2026.09: TOEIC(800+) / Programmers(Lv2)
+- [ ] 2026.08: TOEIC(800+) / Programmers(Lv3)
+- [ ] 2026.09: TOEIC(800+) / Programmers(Lv3)
 - [ ] 2026.10: TOEIC(800+) / Programmers(Lv3)
 - [ ] 2026.11: TOEIC(800+) / Programmers(Lv3)
 - [ ] 2026.12: TOEIC(800+) / Programmers(Lv3)
